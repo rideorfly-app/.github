@@ -7,4 +7,12 @@ The open road or the open sky? Tell us where you're headed and who's coming alon
 
 One-way trips, anywhere in the US. Four plane tickets buys a lot of gas. Sometimes. We'll tell you when.
 
+## Repositories
+
+**[`engine`](https://github.com/rideorfly-app/engine)**<br>
+The brains, out in the open. Every verdict starts here, and anyone can check our math, including that bookings never tip the scales.
+
+**[`data`](https://github.com/rideorfly-app/data)**<br>
+The receipts. Public numbers from public sources, checked every day and published only after a human signs off.
+
 **[Visit rideorfly.app →](https://rideorfly.app)**
