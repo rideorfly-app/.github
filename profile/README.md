@@ -3,6 +3,8 @@
 
 # Ride or Fly
 
-Should you drive or fly? [Ride or Fly](https://rideorfly.app) helps you decide for a one-way trip in the US. It weighs time, cost, and comfort.
+The open road or the open sky? Tell us where you're headed and who's coming along. We'll do the math on time, cost, and comfort, then call it: Ride or Fly.
+
+One-way trips, anywhere in the US. Four plane tickets buys a lot of gas. Sometimes. We'll tell you when.
 
 **[Visit rideorfly.app →](https://rideorfly.app)**
