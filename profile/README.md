@@ -5,8 +5,4 @@
 
 Should you drive or fly? [Ride or Fly](https://rideorfly.app) helps you decide for a one-way trip in the US. It weighs time, cost, and comfort.
 
-## Repositories
-
-- **[engine](https://github.com/rideorfly-app/engine)**: the open-source scoring engine behind every verdict (Apache 2.0). Anyone can check that what we earn from bookings plays no part in the answer.
-
 **[Visit rideorfly.app →](https://rideorfly.app)**
